@@ -22,7 +22,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **A Tutorial on Network Embeddings.**
 *Haochen Chen, Bryan Perozzi, Rami Al-Rfou, Steven Skiena.* 2018. [paper](https://arxiv.org/pdf/1808.02590.pdf)
 
-1. **Network Representation Learning: An Overview.(In Chinese)**
+1. - [x]  **Network Representation Learning: An Overview.(In Chinese)**
 *Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2017. [paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)
 
 1. ***Relational inductive biases, deep learning, and graph networks.***
