@@ -42,7 +42,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **GraRep: Learning Graph Representations with Global Structural Information.**
 *Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. [paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) [code](https://github.com/ShelsonCao/GraRep)
 
-1. **LINE: Large-scale Information Network Embedding.**
+1. - [x] **LINE: Large-scale Information Network Embedding.**
 *Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.*  WWW 2015. [paper](https://arxiv.org/pdf/1503.03578.pdf) [code](https://github.com/tangjianpku/LINE)
 
 1. **Network Representation Learning with Rich Text Information.**
