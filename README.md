@@ -39,7 +39,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Non-transitive Hashing with Latent Similarity Componets.**
 *Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.*  KDD 2015. [paper](http://cuip.thumedialab.com/papers/KDD-NonTransitiveHashing.pdf)
 
-1. **GraRep: Learning Graph Representations with Global Structural Information.**
+1. - [] 基于矩阵分解 **GraRep: Learning Graph Representations with Global Structural Information.**
 *Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. [paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) [code](https://github.com/ShelsonCao/GraRep)
 
 1. - [x] **LINE: Large-scale Information Network Embedding.**
