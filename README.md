@@ -45,7 +45,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. - [x] **LINE: Large-scale Information Network Embedding.**
 *Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.*  WWW 2015. [paper](https://arxiv.org/pdf/1503.03578.pdf) [code](https://github.com/tangjianpku/LINE)
 
-1. - [x] **Network Representation Learning with Rich Text Information.**
+1. - [x] TADW模型,用MF模拟了Deepwalk **Network Representation Learning with Rich Text Information.**
 *Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.*  IJCAI 2015. [paper](http://thunlp.org/~yangcheng/publications/ijcai15.pdf) [code](https://github.com/thunlp/tadw)
 
 1. **PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks.**
