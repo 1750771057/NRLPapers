@@ -63,7 +63,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Revisiting Semi-supervised Learning with Graph Embeddings.**
 *Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. [paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
 
-1. **node2vec: Scalable Feature Learning for Networks.**
+1. - [x] **node2vec: Scalable Feature Learning for Networks.**
 *Aditya Grover, Jure Leskovec.*  KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf) [code](https://github.com/aditya-grover/node2vec)
 
 1. **Max-Margin DeepWalk: Discriminative Learning of Network Representation.**
