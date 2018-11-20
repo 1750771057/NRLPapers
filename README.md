@@ -96,7 +96,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **TransNet: Translation-Based Network Representation Learning for Social Relation Extraction.**
 *Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun.* IJCAI 2017. [paper](http://thunlp.org/~tcc/publications/ijcai2017_transnet.pdf) [code](https://github.com/thunlp/transnet)
 
-1. **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
+1. - [] **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
 *Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.* KDD 2017. [paper](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [code](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
 1. **Learning from Labeled and Unlabeled Vertices in Networks.**
@@ -138,7 +138,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Attributed Network Embedding for Learning in a Dynamic Environment.**
 *Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017. [paper](https://arxiv.org/pdf/1706.01860.pdf)
 
-1. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**
+1. - [] **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**
 *Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017. [paper](http://shichuan.org/hin/topic/Embedding/2017.%20CIKM%20HIN2Vec.pdf) [code](https://github.com/csiesheep/hin2vec)
 
 1. **From Properties to Links: Deep Network Embedding on Incomplete Graphs.**
