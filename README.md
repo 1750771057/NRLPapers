@@ -76,7 +76,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Juzheng Li, Jun Zhu, Bo Zhang.* ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1095)
 
 1. - [x] **Structural Deep Network Embedding.**
-*Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://cuip.thumedialab.com/papers/SDNE.pdf) [code](https://github.com/thunlp/OpenNE)
+*Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://cuip.thumedialab.com/papers/SDNE.pdf) [code](https://github.com/suanrong/SDNE)
 
 1. **Structural Neighborhood Based Classification of Nodes in a Network.**
 *Sharad Nandanwar, M. N. Murty.* KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/Paper_679.pdf)
