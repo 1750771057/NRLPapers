@@ -96,7 +96,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **TransNet: Translation-Based Network Representation Learning for Social Relation Extraction.**
 *Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun.* IJCAI 2017. [paper](http://thunlp.org/~tcc/publications/ijcai2017_transnet.pdf) [code](https://github.com/thunlp/transnet)
 
-1. - [] **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
+1. - [x] **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
 *Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.* KDD 2017. [paper](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [code](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
 1. **Learning from Labeled and Unlabeled Vertices in Networks.**
